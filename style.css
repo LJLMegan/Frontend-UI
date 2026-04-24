@@ -1,0 +1,178 @@
+.topnav{
+    position: fixed;
+    width: 100%;
+    height: 70px;
+    background-color: white;
+    display: flex;
+    top: 0;}
+
+
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav li{
+    list-style-type: none;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #1ac31a;
+  color: black;
+}
+/* Add an active class to highlight the current page */
+.topnav a.active {
+  background-color: #126f4d;
+  color: white;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
+}
+/* General Page Setup */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: white; 
+}
+
+.home img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.home h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(247, 142, 4);
+    font-size: 50px;
+}
+
+/* TOP SECTION: BLACK BACKGROUND (About Us) */
+.about-us {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+    align-items: center; 
+    background-color: black; 
+    padding: 60px;
+    width: 100%;
+    box-sizing: border-box;
+    gap: 40px;
+}
+
+.about-left-column {
+    display: flex;
+    flex-direction: column;
+    width: 45%; 
+}
+
+.about-title {
+    color: orangered;
+    font-size: 35px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+.textstyle {
+    background-color: orangered;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.lw {
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    margin: 0;
+}
+
+.image-box {
+    width: 50%;
+}
+
+.image-box img {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+
+/* BOTTOM SECTION: WHITE BACKGROUND (Menu) */
+.menu-section {
+    padding: 60px;
+    text-align: center;
+    background-color: white; 
+}
+
+.menu-section h1 {
+    color: orangered;
+    margin-bottom: 30px;
+}
+
+/* THE GRID FIX */
+.menu-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Forces 3 items per row */
+    gap: 40px;                             /* Space between items */
+    list-style-type: none;                 /* REMOVES BULLET POINTS */
+    padding: 0;                            /* Removes default list indentation */
+    margin: 0 auto;
+    max-width: 1000px;                     /* Keeps the grid from getting too wide */
+}
+
+.menu-grid li {
+    text-align: center;
+}
+
+.menu-grid h2 {
+    color: black;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.menu-grid img {
+    border-radius: 10px;
+    width: 100%;                           /* Images fill their grid slot */
+    height: 150px;                         /* Keeps all images the same height */
+    object-fit: cover;                     /* Prevents images from stretching weirdly */
+}
+/* This is the container that holds both the map and the text */
+.footer-container {
+    display: flex;            /* Turns the container into a row */
+    flex-direction: row;      /* Forces items to sit left-to-right */
+    justify-content: space-between; /* Pushes the map left and contact right */
+    align-items: flex-start;  /* Keeps them aligned at the top */
+    gap: 50px;                /* Creates space between the map and the text */
+    max-width: 1200px;        /* Prevents it from getting too wide */
+    margin: 0 auto;           /* Centers the whole footer on the screen */
+}
+
+/* Make the map side stay flexible */
+.footer-map {
+    flex: 1;                 /* Allows the map to take up half the space */
+}
+
+/* Make the contact side stay flexible and align text */
+.footer-info {
+    flex: 1;                 /* Allows the contact info to take up the other half */
+    text-align: left;        /* Keeps the text neat on the right side */
+}
+
+/* Ensure the iframe fills its half of the footer */
+.footer-map iframe {
+    width: 100%;
+    height: 300px;
+    border-radius: 15px;
+}   
