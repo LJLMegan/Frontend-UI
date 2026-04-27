@@ -52,3 +52,9 @@ Design Section
 <img width="1202" height="677" alt="image" src="https://github.com/user-attachments/assets/d9fa897b-51d2-494b-9155-1fd64b11cf32" />
 <img width="1202" height="677" alt="image" src="https://github.com/user-attachments/assets/dcdd27cb-4774-4680-8487-ccbaa2c7db15" />
 
+Google Lighthouse Automated Testing
+
+<img width="573" height="733" alt="Performance Google Lighhouse" src="https://github.com/user-attachments/assets/ea32d3a5-5ef4-4831-966d-d4c4a5aa8548" />
+<img width="597" height="581" alt="SEO Google Lighthouse" src="https://github.com/user-attachments/assets/1de3bfda-2a5a-4845-bfbe-064cb579f947" />
+<img width="595" height="712" alt="Best Practices Google Lighthouse" src="https://github.com/user-attachments/assets/ccfa9b17-39f2-4183-aad7-35766c61e132" />
+<img width="1190" height="583" alt="Acessibility Google Lighthouse" src="https://github.com/user-attachments/assets/9cce19c3-6ac9-4e4e-bd41-ec28a25fc1f3" />
