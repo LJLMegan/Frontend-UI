@@ -62,3 +62,12 @@ During the assignment of making a website using HTML and CSS. Most of my referen
 <img width="597" height="581" alt="SEO Google Lighthouse" src="https://github.com/user-attachments/assets/1de3bfda-2a5a-4845-bfbe-064cb579f947" />
 <img width="595" height="712" alt="Best Practices Google Lighthouse" src="https://github.com/user-attachments/assets/ccfa9b17-39f2-4183-aad7-35766c61e132" />
 <img width="1190" height="583" alt="Acessibility Google Lighthouse" src="https://github.com/user-attachments/assets/9cce19c3-6ac9-4e4e-bd41-ec28a25fc1f3" />
+
+##6. Manual Testing 
+For the first user story, the requirement was for users to be able to find the menu within 10 seconds. I achieved this by adding a navigation menu at the top of the page. When the user clicks on “Menu,” the page automatically scrolls down to the correct section, allowing them to locate it quickly.
+
+For the second user story, the goal was for users to quickly find the order button and for the layout to remain simple. I met this requirement by keeping the navigation menu at the top so users can jump to any section instantly. I also structured the website as four sections within one webpage: the Home section, the About Us section, the Menu section (which includes the order button directly under the menu title), and the Contact Us section. The Home section also includes an image of the storefront for users who may want to visit in person.
+
+For the third user story, the user has low vision, and this requirement was met by using large titles and different coloured headings to improve visibility and readability.
+
+The biggest bug I encountered was in the About Us section. The requirement was for the text to appear inside a box with the image positioned on the left. Initially, the layout did not display correctly. I fixed this by creating an “about-us-left-column” class and applying flex direction in the CSS. The box styling included box-sizing, flex-direction, and justify-content, which resolved the layout issue.
