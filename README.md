@@ -63,7 +63,7 @@ During the assignment of making a website using HTML and CSS. Most of my referen
 <img width="595" height="712" alt="Best Practices Google Lighthouse" src="https://github.com/user-attachments/assets/ccfa9b17-39f2-4183-aad7-35766c61e132" />
 <img width="1190" height="583" alt="Acessibility Google Lighthouse" src="https://github.com/user-attachments/assets/9cce19c3-6ac9-4e4e-bd41-ec28a25fc1f3" />
 
-##6. Manual Testing 
+## 6. Manual Testing
 
 For the first user story, the requirement was for users to be able to find the menu within 10 seconds. I achieved this by adding a navigation menu at the top of the page. When the user clicks on “Menu,” the page automatically scrolls down to the correct section, allowing them to locate it quickly.
 
