@@ -52,6 +52,9 @@ Design Section
 <img width="1202" height="677" alt="image" src="https://github.com/user-attachments/assets/d9fa897b-51d2-494b-9155-1fd64b11cf32" />
 <img width="1202" height="677" alt="image" src="https://github.com/user-attachments/assets/dcdd27cb-4774-4680-8487-ccbaa2c7db15" />
 
+Reflection
+During the assignment of making a website using HTML and CSS. Most of my references were used from W3Schools by looking at the example of the code provided. For example, I used Navigation bar and buttons from W3Schools and referenced them to the page I made and deployed using GitHub Pages. My basis was from the first assignment, which was a group project and used the wireframes. I replicated as much as possible.  
+
 Google Lighthouse Automated Testing
 
 <img width="573" height="733" alt="Performance Google Lighhouse" src="https://github.com/user-attachments/assets/ea32d3a5-5ef4-4831-966d-d4c4a5aa8548" />
