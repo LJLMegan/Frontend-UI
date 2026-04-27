@@ -64,6 +64,7 @@ During the assignment of making a website using HTML and CSS. Most of my referen
 <img width="1190" height="583" alt="Acessibility Google Lighthouse" src="https://github.com/user-attachments/assets/9cce19c3-6ac9-4e4e-bd41-ec28a25fc1f3" />
 
 ##6. Manual Testing 
+
 For the first user story, the requirement was for users to be able to find the menu within 10 seconds. I achieved this by adding a navigation menu at the top of the page. When the user clicks on “Menu,” the page automatically scrolls down to the correct section, allowing them to locate it quickly.
 
 For the second user story, the goal was for users to quickly find the order button and for the layout to remain simple. I met this requirement by keeping the navigation menu at the top so users can jump to any section instantly. I also structured the website as four sections within one webpage: the Home section, the About Us section, the Menu section (which includes the order button directly under the menu title), and the Contact Us section. The Home section also includes an image of the storefront for users who may want to visit in person.
