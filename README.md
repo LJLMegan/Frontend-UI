@@ -53,7 +53,9 @@ Kombu’s website starts with a navigation menu at the top, with the Home sectio
 <img width="1202" height="677" alt="image" src="https://github.com/user-attachments/assets/dcdd27cb-4774-4680-8487-ccbaa2c7db15" />
 
 ## 4.Development
-##Reflection
+
+## Reflection
+
 During the assignment of making a website using HTML and CSS. Most of my references were used from W3Schools by looking at the example of the code provided. For example, I used Navigation bar and buttons from W3Schools and referenced them to the page I made and deployed using GitHub Pages. My basis was from the first assignment, which was a group project and used the wireframes. I replicated as much as possible. 
 
 <img width="1833" height="918" alt="Screenshot 2026-04-24 144134" src="https://github.com/user-attachments/assets/ac8792d1-f889-4fee-9e7b-ef52c4320f0d" />
