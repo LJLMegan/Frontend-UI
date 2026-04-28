@@ -52,9 +52,15 @@ Kombu’s website starts with a navigation menu at the top, with the Home sectio
 <img width="1202" height="677" alt="image" src="https://github.com/user-attachments/assets/d9fa897b-51d2-494b-9155-1fd64b11cf32" />
 <img width="1202" height="677" alt="image" src="https://github.com/user-attachments/assets/dcdd27cb-4774-4680-8487-ccbaa2c7db15" />
 
-## 4.Reflection
+## 4.Development
 
-During the assignment of making a website using HTML and CSS. Most of my references were used from W3Schools by looking at the example of the code provided. For example, I used Navigation bar and buttons from W3Schools and referenced them to the page I made and deployed using GitHub Pages. My basis was from the first assignment, which was a group project and used the wireframes. I replicated as much as possible.  
+During the assignment of making a website using HTML and CSS. Most of my references were used from W3Schools by looking at the example of the code provided. For example, I used Navigation bar and buttons from W3Schools and referenced them to the page I made and deployed using GitHub Pages. My basis was from the first assignment, which was a group project and used the wireframes. I replicated as much as possible. 
+
+<img width="1833" height="918" alt="Screenshot 2026-04-24 144134" src="https://github.com/user-attachments/assets/ac8792d1-f889-4fee-9e7b-ef52c4320f0d" />
+<img width="1812" height="732" alt="Screenshot 2026-04-24 145234" src="https://github.com/user-attachments/assets/4b35bb65-cd8b-47a3-b47b-d67ade38d503" />
+<img width="1697" height="714" alt="Screenshot 2026-04-24 190033" src="https://github.com/user-attachments/assets/dc239c9e-2e1c-431f-af35-3443b5c1c690" />
+<img width="1698" height="495" alt="Screenshot 2026-04-24 190547" src="https://github.com/user-attachments/assets/4c1edb78-fc8f-40fd-ad4d-ab15a8a419cb" />
+
 
 ## 5. Google Lighthouse Automated Testing
 
